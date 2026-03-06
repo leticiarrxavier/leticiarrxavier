@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Letícia Xavier 👋
 
-<!--
-**leticiarrxavier/leticiarrxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+📍 São Bernardo do Campo, SP, Brazil  
+💻 Interested in Backend Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,nodejs,html,css,postgres,git" />
+</p>
+
+---
+
+## 🌎 About Me
+
+Computer Science student passionate about programming and problem solving.  
+Interested in backend development and building web applications.
+
+---
+
+## 📂 Projects
+
+Projects coming soon 🚀  
+Currently working on backend and web development projects.
+
+---
+
+## 📫 Contact
+
+Email: lelerochax@gmail.com
