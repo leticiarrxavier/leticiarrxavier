@@ -1,4 +1,4 @@
-# Hi, I'm Letícia Xavier 👋
+# Hi, I'm Leticia Xavier 👋
 
 🎓 Computer Science Student  
 📍 São Bernardo do Campo, SP, Brazil  
